@@ -1,0 +1,18 @@
+body
+{
+align-items: center;
+}
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+#playButton, #status{
+    font-size: 22px;
+}
